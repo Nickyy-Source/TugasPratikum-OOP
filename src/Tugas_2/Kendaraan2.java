@@ -23,5 +23,5 @@ public class Kendaraan {
         System.out.println("Berjalan Mundur");
     }
     void kendaraanBerhenti(){
-        System.out.println(" Kendaraan Berhenti");
+        System.out.println(" Kendaraan stop");
     }}
